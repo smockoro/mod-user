@@ -1,1 +1,1 @@
-module github.com/smockoro/mod-user
+module github.com/smockoro/mod-user/v2

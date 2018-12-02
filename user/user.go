@@ -10,9 +10,9 @@ type User struct {
 }
 
 func (u *User) UserHello() {
-	fmt.Println("mod-user v1.0.2")
+	fmt.Println("mod-user v2.0.0")
 	fmt.Println(u.Name)
 	fmt.Println(u.Age)
-	//fmt.Println(u.Height)
-	//fmt.Println(u.Weight)
+	fmt.Println(u.Height)
+	fmt.Println(u.Weight)
 }
